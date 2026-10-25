@@ -1,0 +1,25 @@
+# Build output
+obj/
+bin/
+Publish/
+Release/
+
+# IDE
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+e2e_*.log
+server_*.log
+client_*.log
+
+# Node modules
+node_modules/
